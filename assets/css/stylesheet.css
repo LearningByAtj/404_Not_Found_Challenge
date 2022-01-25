@@ -1,0 +1,91 @@
+/*Web*/
+a {
+  text-decoration: none;
+}
+img {
+  width: 400px;
+  height: 300px;
+}
+
+nav {
+  position: absolute;
+  width: 133px;
+  height: 25px;
+  left: 77px;
+  top: 40px;
+}
+
+.color_title {
+  color: #333333;
+}
+
+.logo {
+  font-family: "Inconsolata", monospace;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: -0.08em;
+  text-align: left;
+}
+
+.text_font {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.text_content {
+  font-family: "Space Mono", monospace;
+  font-style: normal;
+  letter-spacing: -0.035em;
+}
+.text_parag {
+  font-weight: normal;
+  font-size: 20px;
+}
+
+.button_style {
+  background-color: #333333;
+  color: #fff;
+  font-family: Space Mono;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: -0.035em;
+  text-transform: uppercase;
+  padding: 23px 43px;
+}
+
+footer p,
+footer p a {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #bdbdbd;
+}
+
+footer p a:hover {
+  color: #191919;
+}
+
+.container {
+  margin-top: 150px;
+  margin-bottom: 90px;
+  display: flex;
+  width: 90%;
+  align-items: center;
+  justify-content: center;
+}
+
+.image_content {
+  margin-left: 50px;
+  margin-right: 60px;
+}
+.button_content {
+  margin-top: 60px;
+}
+
+/*Mobile*/
